@@ -19,7 +19,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//40.37936 latitude
-//49.8128617 longitude
-
-// https://api.openweathermap.org/data/2.5/weather?lat=40.37936&lon=49.8128617&appid=6d688c498c96fd5cbacc8c55842d9fb0&units=metric
